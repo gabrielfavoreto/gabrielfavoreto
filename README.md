@@ -1,7 +1,7 @@
 ## Olá, eu sou o Gabriel Favoreto
 
-- 🔭 Atualmente curso Análise e Desenvolvimento de Sistemas
-- 🌱 Estudo a linguagem Python voltada para back-end
+- 🔭 Cursando Análise e Desenvolvimento de Sistemas
+- 🌱 Estudando a linguagem Python voltada para back-end
 
 <div align="center">
   <a href="https://github.com/gabrielfavoreto">
